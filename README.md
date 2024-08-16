@@ -1,3 +1,5 @@
+<img aling="right" alt="coding" width="400" src="https://www.digitalaffinity.co.uk/images/code.jpg">
+
 <h1 align="center">Hi 👋, I'm vaishnavi mhaske</h1>
 <h3 align="center">A passionate frontend and backeend developer from India</h3>
 
