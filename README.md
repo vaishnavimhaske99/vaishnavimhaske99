@@ -1,10 +1,11 @@
 <!-- First Image with Bold Text -->
 <div style="position: relative; text-align: center; width: 100%;">
-  <img src="https://www.digitalaffinity.co.uk/images/code.jpg" alt="coding" style="width: 100%;">
+  <img src="https://www.digitalaffinity.co.uk/images/code.jpg" alt="coding" style="width: 100%; opacity: 0.7;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1 style="color: white; font-weight: bold;">Your Bold Centered Text</h1>
   </div>
 </div>
+
 
 
 <!-- Headings and Second Image -->
