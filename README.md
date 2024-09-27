@@ -12,7 +12,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Mhaske</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcoder&psig=AOvVaw2xeNnahAElKf6FrLz-YAQR&ust=1727503828508000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND9rbS74ogDFQAAAAAdAAAAABAE)">
 
 <!-- Profile Views and Social Links -->
 <p align="left">
