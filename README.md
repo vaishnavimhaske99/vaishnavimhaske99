@@ -1,5 +1,6 @@
 <!-- First Image with Bold Text -->
 <div style="position: relative; text-align: center; width: 100%;">
+  
   <img src="https://img.freepik.com/free-photo/closeup-caucasian-software-coder-hands-typing-keyboard-front-computer-screens-with-programming-interface-database-developer-sitting-desk-writing-algorithm-it-agency_482257-41857.jpg?size=626&ext=jpg&ga=GA1.1.2032478647.1725880807&semt=ais_hybrid" style="width: 100%; opacity: 0.7;">
   <div style="position: absolute; top: 50%; left: 5%; transform: translate(-50%, -50%);">
 
@@ -35,6 +36,7 @@
 - 💬 Ask me about **Spring Boot, MySQL, HTML, CSS, Angular**
 
 - 📫 How to reach me **vaishnavimhaske099@gmail.com**
+- Also see my portfolio ""https://vaishnavimhaske99.github.io/portfolio-vaishnavi-mhaske/""
 
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
